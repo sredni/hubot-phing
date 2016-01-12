@@ -1,5 +1,5 @@
 {
-  "name": "hubot-phing-deploy",
+  "name": "hubot-phing",
   "description": "A hubot script to execute phing tasks ",
   "version": "0.0.0",
   "author": "hubot@gamfi.pl",
@@ -9,19 +9,19 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-phing-deploy.git"
+    "url": "git://github.com/hubot-scripts/hubot-phing.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-phing-deploy/issues"
+    "url": "https://github.com/hubot-scripts/hubot-phing/issues"
   },
 
   "dependencies": {
-    "hubot-auth": "1.2.x"
   },
 
   "peerDependencies": {
-    "hubot": "2.x"
+    "hubot": "2.x",
+    "hubot-auth": "1.2.x"
   },
 
   "devDependencies": {
