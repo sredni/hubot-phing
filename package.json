@@ -1,19 +1,19 @@
 {
   "name": "hubot-phing",
   "description": "A hubot script to execute phing tasks ",
-  "version": "0.0.0",
-  "author": "hubot@gamfi.pl",
+  "version": "0.0.1",
+  "author": "lukasz@sredni.pl",
   "license": "MIT",
 
   "keywords": "hubot, hubot-scripts, phing",
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-phing.git"
+    "url": "git://github.com/sredni/hubot-phing.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-phing/issues"
+    "url": "https://github.com/sredni/hubot-phing/issues"
   },
 
   "dependencies": {
